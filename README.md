@@ -62,12 +62,10 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 Server.py
-
-
+<img width="633" height="547" alt="image" src="https://github.com/user-attachments/assets/2d3f6052-f2de-4b65-89ff-bf5747f93e92" />
 
 Client.py
-![Uploading image.png…]()
-
+<img width="607" height="637" alt="image" src="https://github.com/user-attachments/assets/5a588aae-3274-45e7-aa26-fcd5f0fea884" />
 
 ## RESULT:
 The program is executed successfully
